@@ -54,7 +54,7 @@ Senha: admin
 
 - Cadastrar Produto
 
-Preencha todos os campos do formulário e clique em "Cadastrar Produto"
+Preencha todos os campos do formulário e clique em "Novo Produto"
 
 - Atualizar Produto
 
@@ -64,8 +64,8 @@ Clique em "Atualizar Produto"
 
 - Remover Produto
 
-Selecione o produto que deseja remover
-Clique em "Remover Produto"
+Clicar duas vezes no produto que deseja remover
+Clique em "Excluir"
 
 - Exportar Relatório
 
